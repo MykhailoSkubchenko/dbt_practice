@@ -1,4 +1,5 @@
 Welcome to your new dbt project!
+Test text
 
 ### Using the starter project
 

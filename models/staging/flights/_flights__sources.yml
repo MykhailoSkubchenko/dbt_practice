@@ -1,0 +1,9 @@
+sources:
+  - name: demo_src
+    tables:
+      - name: aircrafts
+        descrіption: Авіакомпанії
+      - name: airports
+        descrіption: Аеропорти
+      - name: seats
+        descrіption: Місця в літаках
